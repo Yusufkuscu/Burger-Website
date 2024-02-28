@@ -1,11 +1,11 @@
 let images_dt = [
     {
-        title : "THE CHICKEN <br> BURGER",
-        price : "$12.90",
-        MRP : "$24",
-        calorie : 7845,
-        fat : 98 ,
-        protein : 112
+        title : "YUSUF KUSCU <br> BURGER",
+        price : "$13",
+        MRP : "$15",
+        calorie : 340,
+        fat : 11 ,
+        protein : 17
     },
     {
         title : "THE PINK <br> BURGER",
