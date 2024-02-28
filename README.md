@@ -16,4 +16,4 @@
    ```sh
    git clone https://github.com/Yusufkuscu/Burger-Website
 
-![video](https://github.com/Yusufkuscu/Burger-Website/assets/99915079/63aad2e3-154a-4398-a74b-5c51692f4080)
+https://github.com/Yusufkuscu/Burger-Website/assets/99915079/f3d8d818-1d06-4fa2-8de6-5c36d0590b2c
